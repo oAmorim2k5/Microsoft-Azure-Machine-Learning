@@ -3,9 +3,9 @@ This is my first project with Microsoft Azure, I create a model to calculate a b
 
 ## How I create my project
 
-- First time I register my account on Microsft: Azure 
+- First I register my account on Microsft: Azure 
 
-> After this I will watch the class video from DIO Microsoft: Azure AI Fundamentals bootcamp to learn how I can use Microsoft: Azure.
+> After this I watch the class video from DIO Microsoft: Azure AI Fundamentals bootcamp to learn how I can use Microsoft: Azure.
 > Then watched the video I go my hands work and create my project.
 
 ## First Step
